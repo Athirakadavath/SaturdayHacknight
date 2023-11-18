@@ -1,5 +1,12 @@
+![Open CV Github Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/78554b37-32b2-4488-a10c-5c68098d7776)
+
+
+
+
+
+
 # ROCK PAPER SCISSORS GAME
-.Rock Paper identification with TensorFlow and OpenCV
+Rock Paper identification with TensorFlow and OpenCV
 Overview
 This repository contains the source code for a Rock, Paper identication implemented using TensorFlow, Keras, and OpenCV. The game uses a Convolutional Neural Network (CNN) trained on a dataset of hand gestures to recognize and classify the player's moves in real-time.
 
