@@ -6,8 +6,8 @@
 
 
 # ROCK PAPER SCISSORS GAME
-Rock Paper identification with TensorFlow and OpenCV
-Overview
+Rock Paper identification with TensorFlow and OpenCV.
+Overview :
 This repository contains the source code for a Rock, Paper identication implemented using TensorFlow, Keras, and OpenCV. The game uses a Convolutional Neural Network (CNN) trained on a dataset of hand gestures to recognize and classify the player's moves in real-time.
 
 Features
@@ -17,7 +17,7 @@ Machine Learning Model: The core of the gesture classification is a pre-trained 
 
 User-friendly Interface: The game displays the live webcam feed with the recognized gesture overlaid, providing an interactive and engaging user experience.
 
-Requirements
+Requirements :
 Python 3.x
 TensorFlow
 OpenCV
