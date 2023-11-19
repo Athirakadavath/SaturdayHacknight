@@ -49,7 +49,7 @@ Compare the user's gesture with the computer's gesture to determine the winner b
 
 Repeat or Quit:
 Allow the user to play again or exit the gameame that captures hand movement and compares it with randomely generated symbols of rock ,paper,scisssors and determine a winner
-2. but we ended up making a program which identifies gestures shown by the user as rock or paper or scissors.
+But we ended up making a program which identifies gestures shown by the user as rock or paper or scissors.
 ## Libraries used
 TensorFlow, Keras, and OpenCV
 ## How to configure
