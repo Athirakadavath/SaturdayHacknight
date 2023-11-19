@@ -28,7 +28,7 @@ NumPy
 3. Arathy Biju
 4. Abhirami J P
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/file/d/1o9ZttEYcq8VjStfY-kSro4P5Ci_I-bKN/view?usp=sharing)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
